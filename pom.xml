@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:d="http://maven.apache.org/POM/4.0.0"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <d:modelVersion>4.0.0</d:modelVersion>
+
+    <d:groupId>houmMaven</d:groupId>
+    <d:artifactId>houmMaven</d:artifactId>
+    <d:version>1.0-SNAPSHOT</d:version>
+    <d:dependencies>
+        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+        <d:dependency>
+            <d:groupId>mysql</d:groupId>
+            <d:artifactId>mysql-connector-java</d:artifactId>
+            <d:version>5.1.39</d:version>
+        </d:dependency>
+
+    </d:dependencies>>
+
+
+</project>
